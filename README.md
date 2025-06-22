@@ -6,10 +6,10 @@
 
     --- 重要後續步驟 ---
 
-    點擊 "floorp-portable.exe" 來啟動瀏覽器。
-    在瀏覽器執行時，對其在工作列的圖示按右鍵，並選擇「釘選到工作列」。
-    關閉 Floorp 瀏覽器。
-    回到此腳本，並選擇選項 2：「修補已釘選的捷徑」。
+    1. 點擊 "floorp-portable.exe" 來啟動瀏覽器。
+    2. 在瀏覽器執行時，對其在工作列的圖示按右鍵，並選擇「釘選到工作列」。
+    3. 關閉 Floorp 瀏覽器。
+    4. 回到此腳本，並選擇選項 2：「修補已釘選的捷徑」。
 
 Its main function is to use a batch script to automatically solve the following problems:
 
