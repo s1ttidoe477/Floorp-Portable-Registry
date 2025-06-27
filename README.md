@@ -8,8 +8,7 @@
 
     1. 點擊 "floorp-portable.exe" 來啟動瀏覽器。
     2. 在瀏覽器執行時，對其在工作列的圖示按右鍵，並選擇「釘選到工作列」。
-    3. 關閉 Floorp 瀏覽器。
-    4. 回到此腳本，並選擇選項 2：「修補已釘選的捷徑」。
+    3. 回到此腳本，並選擇選項 2：「修補已釘選的捷徑」。
 
 Its main function is to use a batch script to automatically solve the following problems:
 
@@ -20,5 +19,4 @@ Its main function is to use a batch script to automatically solve the following 
     --- Important Next Steps ---
     1. Double-click "floorp-portable.exe" to launch the browser.
     2. While it's running, right-click its icon on the taskbar and choose "Pin to taskbar".
-    3. Close the Floorp browser.
-    4. Come back to this script and choose Option 2: "Patch Pinned Shortcut".
+    3. Come back to this script and choose Option 2: "Patch Pinned Shortcut".
