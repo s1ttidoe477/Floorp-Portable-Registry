@@ -46,8 +46,7 @@ echo.
 echo --- Important Next Steps ---
 echo 1. Double-click "floorp-portable.exe" to launch the browser.
 echo 2. While it's running, right-click its icon on the taskbar and choose "Pin to taskbar".
-echo 3. Close the Floorp browser.
-echo 4. Come back to this script and choose Option 2: "Patch Pinned Shortcut".
+echo 3. Come back to this script and choose Option 2: "Patch Pinned Shortcut".
 echo.
 pause
 goto MENU
